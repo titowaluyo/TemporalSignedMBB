@@ -1,0 +1,5 @@
+[91s] netsim
+[128s] eeg (1, 30) average kmax=12: k=12 edges 53/223 rev p=0.194 chg p=0.114 LB=1.00
+[176s] eeg (1, 30) average kmax=30: k=30 edges 0/16 rev p=1.000 chg p=0.095 LB=1.00
+[207s] eeg (0.5, 45) average kmax=30: k=30 edges 6/123 rev p=1.000 chg p=0.584 LB=1.00
+[237s] eeg (1, 30) recorded kmax=30: k=30 edges 5/5 rev p=1.000 chg p=0.267 LB=1.00

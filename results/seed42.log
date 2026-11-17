@@ -1,0 +1,7 @@
+seed42_revised.py:37: RuntimeWarning: Mean of empty slice
+  sh = {g: np.array([pp["shannon"][sel & (pp["subject"] == q)].mean() for q in ids[g]]) for g in ("HC", "MDD")}
+/usr/local/lib/python3.13/site-packages/numpy/_core/_methods.py:142: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+seed42_revised.py:48: RuntimeWarning: Mean of empty slice
+  m = {g: np.array([pp["Z"][sel & (pp["subject"] == q), fp].mean() for q in ids[g]]) for g in ("HC", "MDD")}
+done 19.714203119277954
