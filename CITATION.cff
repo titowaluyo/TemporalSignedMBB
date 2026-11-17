@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the article below and the archived release."
+title: "TemporalSignedMBB: ground-truth benchmarking of signed, directed lagged connectivity"
+type: software
+authors:
+  - family-names: Purboyo
+    given-names: Tito Waluyo
+    orcid: "https://orcid.org/0000-0001-9817-3185"
+    affiliation: "Department of Biomedical Engineering, School of Electrical Engineering, Telkom University, Bandung, Indonesia"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-17"
+keywords:
+  - transfer entropy
+  - effective connectivity
+  - simulation benchmark
+  - gut-brain axis
+  - persistent homology
+preferred-citation:
+  type: article
+  title: "Ground-truth benchmarking of signed, directed lagged connectivity: TemporalSignedMBB from a simulated gut-brain model to neural data"
+  authors:
+    - family-names: Purboyo
+      given-names: Tito Waluyo
+      orcid: "https://orcid.org/0000-0001-9817-3185"
+  journal: "Cognitive Neurodynamics"
+  year: 2026

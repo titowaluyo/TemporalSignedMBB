@@ -1,0 +1,15 @@
+# Pinned Python packages used for all published results (install with: pip install -r requirements.txt)
+# Python itself is specified in environment.yml (Python 3.13); it is not a pip dependency.
+numpy==2.5.3
+scipy==1.18.1
+scikit-learn==1.9.1
+xgboost==3.4.1
+ripser==0.6.15
+tigramite==5.2.10.1
+networkx==3.7
+statsmodels==0.15.0
+matplotlib==3.11.2
+pillow==12.3.0
+pytest==9.1.1
+# DirectLiNGAM comparator (neural_revision.py only): install the extra file afterwards, without
+# dependency resolution:   pip install --no-deps -r requirements-lingam.txt

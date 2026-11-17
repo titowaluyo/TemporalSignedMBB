@@ -1,0 +1,12 @@
+# Conda environment for TemporalSignedMBB. Create with:
+#   conda env create -f environment.yml
+#   conda activate tsmbb
+#   pip install --no-deps -r requirements-lingam.txt
+name: tsmbb
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - pip
+  - pip:
+      - -r requirements.txt

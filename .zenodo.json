@@ -1,0 +1,15 @@
+{
+  "title": "TemporalSignedMBB: code and result files for ground-truth benchmarking of signed, directed lagged connectivity",
+  "upload_type": "software",
+  "description": "<p>Complete code package for the article &ldquo;Ground-truth benchmarking of signed, directed lagged connectivity: TemporalSignedMBB from a simulated gut-brain model to neural data&rdquo; (Cognitive Neurodynamics). It contains the tsmbb Python modules, the entry-point scripts of the original submission and of the revision, thirteen unit tests, an environment file and pinned requirements files, SHA-256 checksums of the two public neural datasets, the result files (JSON and NPZ) from which every number in the article is read, and the figure files.</p>",
+  "creators": [
+    {
+      "name": "Purboyo, Tito Waluyo",
+      "affiliation": "Department of Biomedical Engineering, School of Electrical Engineering, Telkom University, Bandung, Indonesia",
+      "orcid": "0000-0001-9817-3185"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": ["transfer entropy", "effective connectivity", "simulation benchmark", "gut-brain axis", "persistent homology", "Python"]
+}
