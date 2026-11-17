@@ -1,0 +1,6 @@
+[229s] seed 42 visits 5: cc 0.623 vs 0.991; resp 0.442 vs 0.512
+[447s] seed 42 visits 10: cc 0.743 vs 0.982; resp 0.561 vs 0.517
+[678s] seed 42 visits 20: cc 0.870 vs 0.991; resp 0.555 vs 0.534
+[866s] seed 43 visits 5: cc 0.603 vs 0.979; resp 0.427 vs 0.571
+[1098s] seed 43 visits 10: cc 0.690 vs 0.990; resp 0.511 vs 0.530
+[1306s] seed 43 visits 20: cc 0.796 vs 0.990; resp 0.495 vs 0.503
